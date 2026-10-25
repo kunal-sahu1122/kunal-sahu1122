@@ -45,14 +45,40 @@ Building AI-powered applications using Python, Machine Learning, Large Language 
 
 ---
 
+
 ## 💼 Internship Experience
 
-**AI Engineer Intern — SysTools Software Pvt. Ltd.**
+### 🤖 AI Engineer Intern
+**SysTools Software Pvt. Ltd.** | Feb 2026 – Aug 2026
 
-- Developed backend functionality for an AI-powered Website Planner using Python and FastAPI.
-- Integrated the Gemma LLM through Ollama and refined prompts to improve output relevance and consistency.
+- Worked on AI-powered applications using Python, FastAPI, Generative AI, and Large Language Models.
+- Developed backend functionality for an AI Website Planner using FastAPI and integrated Gemma through Ollama.
 - Worked on a Crop Disease Detection System using YOLO and OpenCV.
-- Contributed to dataset preparation, preprocessing, annotation, augmentation, and model evaluation.
+- Contributed to dataset preprocessing, annotation, augmentation, testing, and output evaluation.
+
+**Tech Stack:** Python • FastAPI • Gemma • Ollama • LLMs • YOLO • OpenCV
+
+---
+
+### 🐍 Python Developer Intern
+**Mega Softel Pvt. Ltd.** | Jul 2025 – Aug 2025
+
+- Developed and improved Python scripts for automation and backend-related tasks.
+- Assisted with debugging, testing, and improving application functionality.
+- Strengthened practical Python programming and problem-solving skills.
+
+**Tech Stack:** Python • Debugging • Testing • Automation
+
+---
+
+### 💻 Python Intern
+**Netcore Info Business Group Pvt. Ltd.** | Apr 2023 – Jun 2023
+
+- Gained practical experience in Python development and application workflows.
+- Assisted with debugging, testing, and improving Python-based applications.
+- Built foundational exposure to Django and backend development concepts.
+
+**Tech Stack:** Python • Django • Debugging • Testing
 
 ---
 
