@@ -110,10 +110,19 @@ Machine learning project to predict customer churn using customer data.
 
 ## 🎓 Education
 
-**B.Tech in Computer Science Engineering**  
-Vivekananda Institute of Professional Studies, Technical Campus (VIPS-TC), Delhi | 2023–2026
+### 🎓 B.Tech in Computer Science Engineering
+**Vivekananda Institute of Professional Studies, Technical Campus (VIPS-TC), Delhi**
 
-**Diploma in Computer Engineering** | 2023
+📅 2023 – 2026
+
+![CGPA](https://img.shields.io/badge/CGPA-7.63%2F10-blue?style=for-the-badge)
+
+### 🏫 Diploma in Computer Engineering
+**Guru Tegh Bahadur Polytechnic Institute, Delhi – 110064**
+
+📅 Completed in 2023
+
+![CGPA](https://img.shields.io/badge/CGPA-8.38%2F10-purple?style=for-the-badge)
 
 ---
 
@@ -132,10 +141,10 @@ Vivekananda Institute of Professional Studies, Technical Campus (VIPS-TC), Delhi
 
 🔗 **LinkedIn:** [Kunal Sahu](https://linkedin.com/in/kunal-sahu-a595a7292)
 
-🐙 **GitHub:** [kunal-sahu1122](https://github.com/kunal-sahu1122)
+🐙 **GitHub:** *You're already here! ☺️ *
 
 ---
 
 <p align="center">
-  ⭐ Thanks for visiting my profile! Feel free to explore my repositories.
+  ⭐ *If you like my profile, don't forget to star a repo!*  
 </p>
